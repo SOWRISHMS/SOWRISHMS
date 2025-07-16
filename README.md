@@ -2,7 +2,7 @@
 
 # 👋 Hi there! I'm Sowrish M S
 
-🤖 Machine Learning Enthusiast | <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/75a0e4fc-4bef-4c56-9ca0-080934ad2d69" />
+🤖 Machine Learning Enthusiast | <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/75a0e4fc-4bef-4c56-9ca0-080934ad2d69" />
  Java Developer | 🌐 Open-source Contributor  
 
 </div>
@@ -19,7 +19,7 @@
 
 ## 🧩 Projects I'm Proud Of
 
-**Bitcoin VerboseChexker**  
+**Bitcoin VerboseChecker**  
 Model that allow to you whether you btc wallet 
 [🔗 View on GitHub](https://github.com/SOWRISHMS/btc)
 
