@@ -2,7 +2,7 @@
 
 # 👋 Hi there! I'm Sowrish M S
 
-🤖 Machine Learning Enthusiast | <img width="197" height="189" alt="image" src="https://github.com/user-attachments/assets/75a0e4fc-4bef-4c56-9ca0-080934ad2d69" />
+🤖 Machine Learning Enthusiast | <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/75a0e4fc-4bef-4c56-9ca0-080934ad2d69" />
  Java Developer | 🌐 Open-source Contributor  
 
 </div>
