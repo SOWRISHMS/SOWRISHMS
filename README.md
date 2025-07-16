@@ -91,7 +91,7 @@ Model that allow to you whether you btc wallet
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sowrishms/)  
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:gokulkm025@gmail.com)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:sowrish.mass123456@gmail.com)
 
 ---
 
