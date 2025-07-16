@@ -1,25 +1,98 @@
-# 💫 About Me:
-👋 Hi, I'm Sowrish M.S.<br>🎓 Final-year Computer Science student specializing in Artificial Intelligence and Machine Learning.<br>💡 Passionate about turning theory into practice with hands-on coding and real-world problem solving.<br>🔭 Currently building projects in Java, Python, AI/ML.<br>🚀 Always eager to learn, collaborate, and contribute to open-source.<br><br>📫 Let’s connect and grow together in the world of tech!<br>Profile - https://github.com/SOWRISHMS/
+<div align="center">
 
+# 👋 Hi there! I'm Sowrish M S
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_._sowrish_._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sowrishms) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sowrish.mass123456@gmail.com) 
+🤖 Machine Learning Enthusiast | <img width="197" height="189" alt="image" src="https://github.com/user-attachments/assets/75a0e4fc-4bef-4c56-9ca0-080934ad2d69" />
+ Java Developer | 🌐 Open-source Contributor  
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=flat-square&logo=xbox&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat-square&logo=epicgames&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=flat-square&logo=Meta&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat-square&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SOWRISHMS&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SOWRISHMS&theme=calm_pink&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SOWRISHMS&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SOWRISHMS&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SOWRISHMS&icon=1&color=10)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/sowrish.mass12345-1@okicici) 
+## 👨‍💻 About Me
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🔍 Passionate about Machine Learning, Deep Learning, and NLP  
+🧠 Constant learner who enjoys solving real-world problems with tech    
+🌱 Actively contributing to open-source and community-driven projects
+
+---
+
+## 🧩 Projects I'm Proud Of
+
+**Bitcoin VerboseChexker**  
+Model that allow to you whether you btc wallet 
+[🔗 View on GitHub](https://github.com/SOWRISHMS/btc)
+
+
+---
+
+## ⚡ Currently Into
+
+🐍 Mastering Python for ML & automation
+
+🧩 Sharpening problem-solving skills with Java and DSA challenges
+
+🤝 Networking with developers and tech communities to grow and collaborate
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<a href="https://www.python.org" target="_blank" style="margin: 0 20px 20px 20px;">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" />
+</a>
+
+<a href="https://scikit-learn.org/" target="_blank" style="margin: 0 20px 20px 20px;">
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" />
+</a>
+
+<a href="https://www.tensorflow.org/" target="_blank" style="margin: 0 20px 20px 20px;">
+  <img height="40" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" />
+</a>
+
+<br />
+
+
+
+
+
+
+
+<br /><br />
+
+
+
+
+
+
+
+
+<br /><br />
+
+<a href="https://git-scm.com/" target="_blank" style="margin: 0 20px 20px 20px;">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" />
+</a>
+
+</div>
+
+<br />
+
+
+---
+
+## 📊 Streak Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=SOWRISHMS&theme=dark&hide_border=false)](https://git.io/streak-stats)
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sowrishms/)  
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:gokulkm025@gmail.com)
+
+---
+
+> “Keep building. Keep learning. Keep growing.” – that's how I evolve as a developer.
