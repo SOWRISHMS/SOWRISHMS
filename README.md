@@ -36,51 +36,7 @@ Model that allow to you whether you btc wallet
 
 ---
 
-## 🛠️ Tech Stack
 
-<div align="center">
-
-<a href="https://www.python.org" target="_blank" style="margin: 0 20px 20px 20px;">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" />
-</a>
-
-<a href="https://scikit-learn.org/" target="_blank" style="margin: 0 20px 20px 20px;">
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" />
-</a>
-
-<a href="https://www.tensorflow.org/" target="_blank" style="margin: 0 20px 20px 20px;">
-  <img height="40" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" />
-</a>
-
-<br />
-
-
-
-
-
-
-
-<br /><br />
-
-
-
-
-
-
-
-
-<br /><br />
-
-<a href="https://git-scm.com/" target="_blank" style="margin: 0 20px 20px 20px;">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" />
-</a>
-
-</div>
-
-<br />
-
-
----
 
 ## 📊 Streak Stats
 
